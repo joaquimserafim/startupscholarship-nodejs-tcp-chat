@@ -1,0 +1,15 @@
+{
+  "name": "tcp-server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "moment": "~2.1.0"
+  }
+}
